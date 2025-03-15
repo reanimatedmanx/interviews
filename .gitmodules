@@ -12,3 +12,6 @@
 [submodule "kws-crypto-listing"]
 	path = kws-crypto-listing
 	url = git@github.com:reanimatedmanx/kws-crypto-listing.git
+[submodule "ses-web-app"]
+	path = ses-web-app
+	url = git@github.com:reanimatedmanx/ses-web-app.git
