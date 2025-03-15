@@ -6,3 +6,6 @@
 	url    = git@github.com:reanimatedmanx/ria-book-store-app.git
 	path   = ria-book-store-app
 	branch = main
+[submodule "rock-paper-scissors"]
+	path = rock-paper-scissors
+	url = git@github.com:reanimatedmanx/rock-paper-scissors.git
