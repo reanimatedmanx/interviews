@@ -1,4 +1,8 @@
 [submodule "crunchymedia"]
-	url = git@github.com:reanimatedmanx/crunchymedia.git
-	path = crunchymedia
+	url    = git@github.com:reanimatedmanx/crunchymedia.git
+	path   = crunchymedia
+	branch = main
+[submodule "ria-book-store-app"]
+	url    = git@github.com:reanimatedmanx/ria-book-store-app.git
+	path   = ria-book-store-app
 	branch = main
