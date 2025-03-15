@@ -9,3 +9,6 @@
 [submodule "rock-paper-scissors"]
 	path = rock-paper-scissors
 	url = git@github.com:reanimatedmanx/rock-paper-scissors.git
+[submodule "kws-crypto-listing"]
+	path = kws-crypto-listing
+	url = git@github.com:reanimatedmanx/kws-crypto-listing.git
